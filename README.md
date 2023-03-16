@@ -34,11 +34,11 @@
 
 ##
 
-`numberApplications.c -> Performs multiple numerical functions. 1-Factorial of a number 2-Prime or not 3-Swap two numbers 4-Combination formula 5-Permutation formula.`
+`pandasPlot.ipynb -> Plotting the dataframe using Pandas.`
 
 ##
 
-`rightTriangle.c -> Checks wether a triangle is right or not.`
+`pandasPlot3d.ipynb -> Plotting the dataframe in 3d using Pandas and Matplotlib. Styling with Seaborn.`
 
 ##
 
@@ -46,20 +46,8 @@
 
 ##
 
-`multiplicationTable.c -> Prints the mulltiplication table from 1 to 9 for the entered number.`
+`pandasSeries.ipynb -> Transforming a Numpy array into a dataframe using Pandas.`
 
 ##
 
-`matrix.c -> Takes the temperatue for 4 days for both morning and nights and gets stored in a 2d array. then a bunch of transformation are applied on the array.`
-
-##
-
-` temperature. -> Takes temperature as Celsius then coverts it to Fahrenheit.`
-
-##
-
-` stopwatch.c -> Takes a time in seconds form and changes into the normal (Hours,Minutes,Seconds) form.`
-
-##
-
-`rectangleOrSquare.c -> Takes width and length then tests to find if the entered dimensions form a rectangle or a triangle.`
+`statistics.ipynb -> Perfoming important statistics using Pandas and Matplotlib.`
