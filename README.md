@@ -18,19 +18,19 @@
 
 ## 💡Detailed INFO:
 
-`finalProject.c -> The final project for the FOC course in Uni. It is notable that this file has to be run on linux, and some special files must be included.`
+`deaths.csv -> A dataset I used.`
 
 ##
 
-`randomArray.c -> Takes the array size as user input ---> takes an upper and lower number limit ---> fills the array randomly ---> prints the array ---> prints the positive numbers in the array.`
+`phones.csv -> A dataset I used.`
 
 ##
 
-`hangman.c -> A funny hangman game I made earlier. Takes a name and tests letter by letter for the difference.`
+`numpyArray.ipynb -> Display the numPy data type "Array" it's three forms and some of its functions and transformations.`
 
 ##
 
-`bloodTransfer.c -> Uses the strcmp function to test the validity of a bloodtransfer.`
+`pandasDataFrame.ipynb -> Reads the dataset from a file into a dataframe. I also perform important tranformations and proccesses to the dataframe.`
 
 ##
 
