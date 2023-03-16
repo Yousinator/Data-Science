@@ -2,15 +2,16 @@
   <br>
   <a href="https://github.com/Yousinator/FOC"><img src="https://j.top4top.io/p_2596nt9fw1.gif" alt="coding.logo"></a>
   <br>
-  FOC Lecture "C-lang" Codes
+  Data Science Python Codes
   <br>
 </h1>
 
-<h3 align="center">These are my university lecture ( Fundamentals of Computing ) C-language codes.</h3>
+<h3 align="center">These are the codes I wrote during my learning journey with data science programming using Jupyter.</h3>
 
 <p align="center">
   <a href="">
-    <img src="https://img.shields.io/badge/Written in-C-blue.svg">
+    <img src="https://img.shields.io/badge/Written%20Using-Jupyter-orange">
+    <img src="https://img.shields.io/badge/Written%20in-Python-yellow">
 
   </a>
   </p>
