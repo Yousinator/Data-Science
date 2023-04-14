@@ -26,15 +26,15 @@
 
 ##
 
+`gdscPreproccessingLab.ipynb -> This was the lab I wrote for the NLP course I took from GSDC HTU.`
+
+##
+
 `numpyArray.ipynb -> Display the numPy data type "Array" it's three forms and some of its functions and transformations.`
 
 ##
 
 `pandasDataFrame.ipynb -> Reads the dataset from a file into a dataframe. I also perform important tranformations and proccesses to the dataframe.`
-
-##
-
-`gdscPreproccessingLab.ipynb -> This was the lab I wrote for the NLP course I took from GSDC HTU.`
 
 ##
 
