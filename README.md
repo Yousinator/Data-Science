@@ -26,6 +26,10 @@
 
 ##
 
+`gdscPreproccessingLab.ipynb -> This was the lab I wrote for the NLP course I took from GSDC HTU.`
+
+##
+
 `numpyArray.ipynb -> Display the numPy data type "Array" it's three forms and some of its functions and transformations.`
 
 ##
@@ -39,10 +43,6 @@
 ##
 
 `pandasPlot3d.ipynb -> Plotting the dataframe in 3d using Pandas and Matplotlib. Styling with Seaborn.`
-
-##
-
-`maxGrade -> Takes grades until the user exitsthen calculates the 1- Number of grades entered, 2- The average value for the grades, 3- The highest grade entered, 4- the sum of all grades entered.`
 
 ##
 
